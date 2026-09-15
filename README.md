@@ -1,5 +1,5 @@
-# Shipping OS
+# Cadence Ops
 
-Public storefront for Shipping OS — product operating kits for B2B SaaS teams.
+Public storefront for Cadence Ops — product operating kits for B2B SaaS teams.
 
-Independent brand site. Source of truth for kit content lives in a private monorepo.
+Independent brand. (Repo slug still `shipping-os` during the rename experiment.)
