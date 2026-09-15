@@ -1,5 +1,5 @@
 # Shipping OS
 
-Public storefront for Shipping OS product kits.
+Public storefront for Shipping OS — product operating kits for B2B SaaS teams.
 
-Source of truth lives in the private `charliegautreaux/ai` monorepo (`apps/shipping-os`).
+Independent brand site. Source of truth for kit content lives in a private monorepo.
